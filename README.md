@@ -1,5 +1,7 @@
 # Kanban with Draggable Cards
 
+![Application screenshot](./src/assets/screenshot.png)
+
 In this project, I created a Kanban Layout with Draggable Cards using the Angular Component Dev Kit (CDK).
 
 The [Angular CDK](https://material.angular.io/cdk/categories) provides us with "a set of behavior primitives for building UI components", including a really easy to use Drag and Drop module named @angular/cdk/drag-drop, which can be used to create drag-and-drop interfaces, like a Kanban layout. The cards can be dragged and dropped to be repositioned within their column or transferred between columns.
