@@ -2,7 +2,7 @@
 
 ![Application screenshot](./src/assets/screenshot.png)
 
-Neste projeto, criei um quadro Kanban com Cartões arrastáveis através de componente criado com o módulo  @angular/cdk/drag-drop do [Angular CDK(https://material.angular.io/cdk/categories). 
+Neste projeto, criei um quadro Kanban com Cartões arrastáveis através de componente criado com o módulo  @angular/cdk/drag-drop do [Angular CDK](https://material.angular.io/cdk/categories). 
 
 Este projeto foi gerado com a versão 15.0.0 do [Angular CLI](https://github.com/angular/angular-cli). Também utilizei componentes prontos fornecidos pelo framework [Bulma](https://bulma.io/). Para criar fundos especiais, utilizei a ferramenta [Trianglify.io](https://trianglify.io/about).
 
