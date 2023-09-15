@@ -1,16 +1,14 @@
 # Kanban with Draggable Cards
 
-![Application screenshot](./src/assets/screenshot.png)
+Neste projeto, criei um Layout Kanban com Cartões Arrastáveis usando o Angular Component Dev Kit (CDK).
 
-In this project, I created a Kanban Layout with Draggable Cards using the Angular Component Dev Kit (CDK).
+O [Angular CDK](https://material.angular.io/cdk/categories) nos fornece "um conjunto de primitivas de comportamento para a construção de componentes de IU", incluindo um módulo de arrastar e soltar bem simples de usar chamado @angular/cdk/drag-drop, que pode ser utilizado para criar interfaces de arrastar e soltar, como um layout Kanban. Os cartões podem ser arrastados e soltos para serem reposicionados dentro de suas colunas ou transferidos entre elas.
 
-The [Angular CDK](https://material.angular.io/cdk/categories) provides us with "a set of behavior primitives for building UI components", including a really easy to use Drag and Drop module named @angular/cdk/drag-drop, which can be used to create drag-and-drop interfaces, like a Kanban layout. The cards can be dragged and dropped to be repositioned within their column or transferred between columns.
+Este projeto foi gerado com a versão 15.0.0 do [Angular CLI](https://github.com/angular/angular-cli).
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
+Também utilizei o [Bulma](https://bulma.io/) com algumas modificações. Ele é um framework gratuito e open source que disponibiliza uma série de componentes prontos para criar interfaces web responsivas.
 
-I also used [Bulma](https://bulma.io/) with some changes. Bulma is a free, open source framework that provides ready-to-use frontend components that you can easily combine to build responsive web interfaces.
-
-To generate low polygon backgrounds, textures and vectors, I used [Trianglify.io](https://trianglify.io/about), which is based on an open-source library called [Trianglify](https://github.com/qrohlf/trianglify).
+Outra ferramenta que usei para criar fundos com pequenos polígonos, textuas e vetores foi o [Trianglify.io](https://trianglify.io/about).
 
 ## Development server
 
