@@ -1,5 +1,7 @@
 # Kanban with Draggable Cards
 
+![Application screenshot](./src/assets/screenshot.png)
+
 Neste projeto, criei um Layout Kanban com Cartões Arrastáveis usando o Angular Component Dev Kit (CDK).
 
 O [Angular CDK](https://material.angular.io/cdk/categories) nos fornece "um conjunto de primitivas de comportamento para a construção de componentes de IU", incluindo um módulo de arrastar e soltar bem simples de usar chamado @angular/cdk/drag-drop, que pode ser utilizado para criar interfaces de arrastar e soltar, como um layout Kanban. Os cartões podem ser arrastados e soltos para serem reposicionados dentro de suas colunas ou transferidos entre elas.
